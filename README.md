@@ -12,3 +12,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/kuroweb/contributions.svg" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroweb&layout=compact&theme=radical)](https://github.com/kuroweb/github-readme-stats)
+![Kuroweb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuroweb&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuroweb&theme=radical)](https://github.com/kuroweb/github-profile-trophy)
