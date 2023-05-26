@@ -29,7 +29,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kuroweb&count_private=true&show_icons=true&theme=dark" />
 </p>
 
-[![](https://github-profile-trophy.vercel.app/?username=kuroweb&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=kuroweb&title=Stars,Commit,Followers,Issues,Repositories,PullRequest&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://activity-graph.herokuapp.com/graph?username=kuroweb&theme=github)](https://activity-graph.herokuapp.com/graph?username=kuroweb&theme=github)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kuroweb&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=kuroweb&theme=dark)
