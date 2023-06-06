@@ -1,27 +1,15 @@
 ## 👋 Hi! I'm kuroweb
 
 <p align="left"> 
-  <a href="https://github.com/kuroweb/kuroweb/">
-    <img src="https://komarev.com/ghpvc/?username=kuroweb" alt="kuroweb" />
-  </a>
-  <a href="https://github.com/kuroweb">
-    <img height="20" src="https://img.shields.io/github/followers/kuroweb?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/kuroweb">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kuroweb/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/kuroweb">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kuroweb/posts.svg" />
-  </a>
+  <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/likes?style=flat" alt="Likes" />
+  <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/followers?style=flat" alt="Followers" />
+  <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/articles?style=flat" alt="Articles" />
 </p>
-
-<p align="left"> 
-  <a href="https://qiita.com/kuroweb">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
-  <a href="https://zenn.dev/kuromitsu">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" />
-  </a>
+    
+<p align="left">
+  <a href="https://qiita.com/koki_develop"><img src="https://badgen.org/img/qiita/kuroweb/contributions?style=flat" alt="Contributions" />
+  <a href="https://qiita.com/kuroweb"><img src="https://badgen.org/img/qiita/kuroweb/followers?style=flat" alt="Followers" />
+  <a href="https://qiita.com/kuroweb"><img src="https://badgen.org/img/qiita/kuroweb/articles?style=flat" alt="Articles" />
 </p>
 
 <p align="left"> 
