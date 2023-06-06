@@ -1,6 +1,15 @@
 ## 👋 Hi! I'm kuroweb
 
 <p align="left"> 
+  <a href="https://github.com/kuroweb/kuroweb/">
+    <img src="https://komarev.com/ghpvc/?username=kuroweb" alt="kuroweb" />
+  </a>
+  <a href="https://github.com/kuroweb">
+    <img height="20" src="https://img.shields.io/github/followers/kuroweb?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+<p align="left"> 
   <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/likes?style=flat" alt="Likes" />
   <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/followers?style=flat" alt="Followers" />
   <a href="https://zenn.dev/kuromitsu"><img src="https://badgen.org/img/zenn/kuromitsu/articles?style=flat" alt="Articles" />
