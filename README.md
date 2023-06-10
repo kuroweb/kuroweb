@@ -16,7 +16,7 @@
 </p>
     
 <p align="left">
-  <a href="https://qiita.com/koki_develop"><img src="https://badgen.org/img/qiita/kuroweb/contributions?style=flat" alt="Contributions" />
+  <a href="https://qiita.com/kuroweb"><img src="https://badgen.org/img/qiita/kuroweb/contributions?style=flat" alt="Contributions" />
   <a href="https://qiita.com/kuroweb"><img src="https://badgen.org/img/qiita/kuroweb/followers?style=flat" alt="Followers" />
   <a href="https://qiita.com/kuroweb"><img src="https://badgen.org/img/qiita/kuroweb/articles?style=flat" alt="Articles" />
 </p>
